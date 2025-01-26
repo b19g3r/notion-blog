@@ -16,14 +16,7 @@ export default function Index() {
         />
         <h1>My Blog</h1>
         <h2>
-          My Notion Blog with Next.js'{' '}
-          <ExtLink
-            href="https://github.com/vercel/next.js/issues/9524"
-            className="dotted"
-            style={{ color: 'inherit' }}
-          >
-            SSG
-          </ExtLink>
+          My Notion Blog with Next.js
         </h2>
 
 {/*         <Features /> */}
